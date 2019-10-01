@@ -3,5 +3,5 @@ require 'nokogiri'
 def create_project_hash
   project_hash = {}
   
-  html = Nokogiri::
+  html = Nokogiri::HTML()
 end
